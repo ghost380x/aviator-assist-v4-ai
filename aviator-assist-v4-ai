@@ -47,3 +47,11 @@ npx create-expo-app --template blank-typescript .
 eas build --platform android
 
 echo "✅ APK pronto! Baixe em: https://expo.dev"
+
+# Criar arquivo
+nano build.sh
+
+# Colar o script acima
+# Salvar e sair
+
+bash build.sh
